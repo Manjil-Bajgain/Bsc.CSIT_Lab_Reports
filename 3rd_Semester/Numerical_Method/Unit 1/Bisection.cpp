@@ -1,4 +1,4 @@
-//Bisection
+//Bisection.
 #include<iostream>
 #include<math.h>
 #define EPS 0.00001
