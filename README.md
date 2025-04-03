@@ -6,4 +6,4 @@ These reports cover practical experiments, programming assignments, and theoreti
 ---
 ## 📂 Repository Structure
 
-The repository is organized by semester and subject:
+The repository is organized by semester and subject.
